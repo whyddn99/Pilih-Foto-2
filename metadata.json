@@ -1,0 +1,6 @@
+{
+  "name": "PilihFoto",
+  "description": "Tools seleksi foto klien dari folder Google Drive dengan lightbox zoom, penomoran 1-50, dan link WhatsApp siap download untuk fotografer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
